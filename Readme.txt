@@ -8,7 +8,6 @@ Usage
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/brain-tumor-pipeline.git
 cd brain-tumor-pipeline
 Set up the environment:
 Install the required dependencies specified in the notebook files.
