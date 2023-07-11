@@ -1,3 +1,5 @@
+Complete Details about models and preprocessing  can be found at our website: https://sites.google.com/view/mpvir/medical-imaging/classification-of-mgmt-promotor-status?authuser=0
+
 Brain Tumor Segmentation and MGMT Status Classification Pipeline
 This repository contains the implementation of a pipeline for brain tumor segmentation and MGMT status classification using deep learning models. The pipeline utilizes multimodal MRI data and incorporates a 3D Residual U-Net for segmentation and a 3D ResNet10 for classification.
 
