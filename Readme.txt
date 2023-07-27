@@ -16,7 +16,8 @@ Install the required dependencies specified in the notebook files.
 Make sure you have Jupyter Notebook installed.
 Prepare the dataset:
 
-Download the BraTS2021 dataset from http://braintumorsegmentation.org/ and preprocess the MRI scans.
+Download the BraTS2021 Dataset from http://braintumorsegmentation.org/ and preprocess the MRI scans.
+Download the MGMT Dataset from https://www.kaggle.com/competitions/rsna-miccai-brain-tumor-radiogenomic-classification.
 Run the notebooks:
 
 Open segmentation.ipynb and classification.ipynb in Jupyter Notebook.
